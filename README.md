@@ -1,4 +1,4 @@
-# BC2402 Group Project: Diet, Fast Food, and Happiness Analysis
+# Diet, Fast Food, and Happiness Analysis
 
 This group project explored how national dietary patterns, fast-food nutrition, and happiness may be related. Using both SQL and NoSQL, we analysed datasets on country-level nutrient intake, happiness scores, and menu nutrition from major fast-food chains to identify patterns across health, diet, and well-being.
 
