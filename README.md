@@ -6,7 +6,7 @@ Group project for BC2402 Designing and Developing Databases, exploring links bet
 This project analyses country-level dietary patterns, fast-food nutrition, and happiness data using SQL and NoSQL. The goal was to investigate whether diet-related patterns are associated with well-being and what broader factors may explain the results.
 
 ## Data Source
-Datasets provided as part of the project.
+Data provided as part of the project.
 
 ## Methodology
 - SQL and NoSQL Querying
